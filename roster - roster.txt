@@ -1267,9 +1267,8 @@ LB,Jonathan Casillas,23,2016,57,75,77,76,53,79,2.7,3
 LB,Keenan Robinson,23,2016,79,76,85,87,64,74,2.6,1
 END_PLAYERS
 Philadelphia Eagles,PHI
-QB,Davron Mananov,23,2016,99,99,99,99,99,99,1,20
+QB,Davron Mananov,23,2016,200,99,99,99,99,99,1,20
 QB,Chase Daniel,23,2016,57,70,90,82,71,50,7,3
-QB,Carson Wentz,23,2016,105,75,85,93,89,83,6.7,4
 RB,Tom Pieczkolon,23,2016,99,99,99,99,99,99,1,20
 RB,Kenjon Barner,23,2016,72,49,90,46,87,92,0.6,2
 RB,Darren Sproles,23,2016,68,87,87,40,87,88,3.5,3
